@@ -1,7 +1,8 @@
-<?php
-
-// Show all information, defaults to INFO_ALL
-phpinfo();
-
-?>
-
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
